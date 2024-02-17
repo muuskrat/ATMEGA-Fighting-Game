@@ -27,12 +27,9 @@ Controls:
 Source File Links:
 	● main.c - https://drive.google.com/drive/folders/1u-kF3COch6TuFPlWIYMyouSMS-eWbD69?usp=sharing
 
-main file that includes joystick and special character methods. This website helped me understand how to write the code for these functionalities:
-
-https://www.electronicwings.com/avr-atmega/interfaces
+main file that includes joystick and special character methods.
 		
 ● io.c - For displaying and controlling on the LCD
-● io.c - Same as above
 
 ![Untitled](https://github.com/muuskrat/ATMEGA-Fighting-Game/assets/77115526/d1b9cbf9-39e9-4929-85cf-3a3626550438)
 
